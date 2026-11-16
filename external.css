@@ -12,3 +12,13 @@ P{
     color:aqua;
     background-color:black;
 }
+h1{
+    text-align:center;
+}
+p{
+    font-size:4em;
+}
+div{
+    background-color:orange;
+    padding: 119px;
+}
